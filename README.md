@@ -25,3 +25,21 @@ I used **Windows PowerShell** all through.
 ## Steps 6 & 7: Carried out my first commit using `git commit` and checked commit history using `git log`.
 
 ![git log & commit](https://github.com/user-attachments/assets/4903e917-b062-4572-9bb0-984eadc669c3)
+
+## Steps 8 - 11:
+
+- Created another file nameed **fourth.txt**.
+- Added **fourth.txt** to the staging area.
+- Committed with the message "*adding fourth.txt*"
+- Removed the **third.txt** file using `git rm`.
+
+![8-11](https://github.com/user-attachments/assets/ebdf1789-9eef-4821-920d-c167807daeff)
+
+## Steps 12 - 16:
+- Addded the change to the staging area.
+- Commit with the message "*removing third.txt*".
+- Confirmed commits using `git log`.
+- Change global core.pager setting to `cat`.
+- Present all the global GIT configurations on my machine.
+
+![12-16](https://github.com/user-attachments/assets/5b8d6e88-2309-4c10-901a-740afab41eb3)
