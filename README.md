@@ -37,9 +37,9 @@ I used **Windows PowerShell** all through.
 
 ## Steps 12 - 16:
 - Addded the change to the staging area.
-- Commit with the message "*removing third.txt*".
+- Commited with the message "*removing third.txt*".
 - Confirmed commits using `git log`.
-- Change global core.pager setting to `cat`.
-- Present all the global GIT configurations on my machine.
+- Changed global core.pager setting to `cat`.
+- Confirmed the global GIT configurations on my machine.
 
 ![12-16](https://github.com/user-attachments/assets/5b8d6e88-2309-4c10-901a-740afab41eb3)
